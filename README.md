@@ -19,11 +19,6 @@
 * **Front-End & Web Development:** Studying and applying modern front-end concepts, structuring semantic web pages, and mastering HTML/CSS fundamentals.
 ---
 
-### 📊 GitHub Stats
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=PedrozaIves&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /></p>
-
----
 
 ### 📫 Let's Connect
 
