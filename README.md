@@ -16,8 +16,7 @@
 
 * **Routine & Task Management App:** Building a custom, cross-platform routine manager from scratch using Python and web tech to track daily schedules and productivity.
 * **Academic Journey:** Strengthening computer science fundamentals, data structures, and algorithms through university coursework and long-term studies.
-* **Content Creation:** Producing gaming exploration videos and tech-adjacent content.
-
+* **Front-End & Web Development:** Studying and applying modern front-end concepts, structuring semantic web pages, and mastering HTML/CSS fundamentals.
 ---
 
 ### 📊 GitHub Stats
